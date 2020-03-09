@@ -1,6 +1,6 @@
 {
   "name": "@x-guard/react-native-notification-banner",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "ReactNative: Native Notification Banner",
   "main": "js/RNNotificationBanner.js",
   "homepage": "https://github.com/X-Guard/react-native-notification-banner.git",
